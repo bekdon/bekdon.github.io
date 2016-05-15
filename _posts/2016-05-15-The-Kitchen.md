@@ -23,4 +23,4 @@ The toddler even has a Dennis the Menace apron that he insists on wearing and he
 
 Having an independent and (very) assertive toddler can be tough at times, like when he shouts ‘No mummy! Stop it!’ and smacks your phone out your hand in the middle of the supermarket. But it’s great seeing his assertiveness being put to good use, like in the kitchen as he makes me food.
 
-This I will **__always__** encourage.
+This I will **_always_** encourage.
