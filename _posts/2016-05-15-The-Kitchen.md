@@ -3,7 +3,7 @@ layout: post
 title: The Kitchen
 ---
 
-The aim of this project is to write some amount of words every day and post it on ‘The Blog’.
+The aim of this project is to write some amount of words every day and post it on **_The Blog_**.
 
 (Information you don’t *really* need to know, but might like to know: I am having a life crisis. One of those things where you go, wait, SHIT, I have no fucking idea what I’m doing with myself. What does it all mean? Who am I? And does anybody care?)
 
